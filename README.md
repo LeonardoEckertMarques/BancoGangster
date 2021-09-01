@@ -30,6 +30,7 @@
 * );
 * ---- Motoristas
 * ---- TipoDeParceiro
+* ---- Grupos
 * --
 * ---- Veiculos
 * ---- CategoriaDoVeiculo
