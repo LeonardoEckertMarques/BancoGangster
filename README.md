@@ -5,12 +5,11 @@
 * ---- Grupos
 * --
 * ---- Motoristas
-* --
 * ---- Veiculos
 * ---- CategoriaDoVeiculo
 * ---- Modelo
 * --
-* ---- FormaDePagamento
+* ---- Pagamento
 * ---- Tickets
 * --
 * ---- Estacionamento
