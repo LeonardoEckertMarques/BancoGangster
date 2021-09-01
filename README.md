@@ -2,8 +2,9 @@
 * --
 * ---- Funcionarios
 * ---- Usuarios
-* ---- Motoristas
 * ---- Grupos
+* --
+* ---- Motoristas
 * --
 * ---- Veiculos
 * ---- CategoriaDoVeiculo
