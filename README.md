@@ -1,18 +1,18 @@
 # BancoGangster
 * --
-* ----Veiculo
-* ----CategoriaDoVeiculo
-* ----TipoDoVeiculo
+* ---- Veiculo
+* ---- CategoriaDoVeiculo
+* ---- TipoDoVeiculo
 * --
-* ----Parceiros
-* ----Funcionario
-* ----Usuario
-* ----Motorista
+* ---- Parceiros
+* ---- Funcionario
+* ---- Usuario
+* ---- Motorista
 * --
-* ----FormaDePagamento
+* ---- FormaDePagamento
 * --
-* ----Estacionamento
-* ----TicketEstacionamento
-* ----Vagas
-* ----TipoDeVaga
+* ---- Estacionamento
+* ---- TicketEstacionamento
+* ---- Vagas
+* ---- TipoDeVaga
 * --
