@@ -1,14 +1,13 @@
 # BancoGangster
 * --
-* ---- Parceiros
+* ---- Funcionarios
 * ---- Usuarios
 * ---- Motoristas
-* ---- TipoDeParceiro
 * ---- Grupos
 * --
 * ---- Veiculos
 * ---- CategoriaDoVeiculo
-* ---- TipoDeVeiculo
+* ---- Modelo
 * --
 * ---- FormaDePagamento
 * ---- Tickets
