@@ -3,6 +3,7 @@
 * ---- Funcionarios
 * ---- Usuarios
 * ---- Grupos
+* ---- TipoDeFuncionario
 * --
 * ---- Motoristas
 * --
