@@ -9,7 +9,7 @@
 -	  email VARCHAR(255) NULL DEFAULT NULL,
 -	  PRIMARY KEY (id_parceiros)
 * );
-* ---- Funcionario
+* ---- Funcionarios
 * CREATE TABLE funcionarios (
 -	  id_funcionarios INT(10) NOT NULL AUTO_INCREMENT,
 -	  salario DECIMAL(10,2) NULL DEFAULT NULL,
@@ -19,7 +19,7 @@
 -	  PRIMARY KEY (id_funcionarios),
 -	  FOREIGN KEY (id_parceiros) REFERENCES parceiros(id_parceiros)
 * );
-* ---- Usuario
+* ---- Usuarios
 * CREATE TABLE usuarios (
 -  	id_usuarios INT(10) NOT NULL AUTO_INCREMENT,
 -  	nome_de_usuario VARCHAR(50) NOT NULL,
@@ -28,15 +28,15 @@
 - 	PRIMARY KEY (id_usuarios),
 - 	FOREIGN KEY (id_parceiros) REFERENCES parceiros(id_parceiros)
 * );
-* ---- Motorista
+* ---- Motoristas
 * ---- TipoDeParceiro
 * --
-* ---- Veiculo
+* ---- Veiculos
 * ---- CategoriaDoVeiculo
 * ---- TipoDeVeiculo
 * --
 * ---- FormaDePagamento
-* ---- Ticket
+* ---- Tickets
 * --
 * ---- Estacionamento
 * ---- Vagas
