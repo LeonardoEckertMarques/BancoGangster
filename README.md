@@ -1,9 +1,7 @@
 # BancoGangster
 * --
 * ---- Parceiros
-* ---- Funcionarios
 * ---- Usuarios
-* --
 * ---- Motoristas
 * ---- TipoDeParceiro
 * ---- Grupos
