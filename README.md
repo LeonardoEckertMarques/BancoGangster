@@ -12,6 +12,7 @@
 * ---- Pagamento
 * ---- FormaDePagamento
 * --
+* ---- Ticket
 * ---- Estacionamento
 * ---- Vagas
 * ---- TipoDeVaga
