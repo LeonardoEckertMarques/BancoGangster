@@ -8,7 +8,6 @@
 * ---- TipoDeParceiro
 * --
 * ---- Veiculos
-* ---- CategoriaDoVeiculo
 * ---- TipoDeVeiculo
 * --
 * ---- Pagamento
