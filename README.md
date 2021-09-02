@@ -5,7 +5,6 @@
 * ---- Usuarios
 * ---- Motoristas
 * ---- Grupos
-* ---- TipoDeParceiro
 * --
 * ---- Veiculos
 * ---- TipoDeVeiculo
