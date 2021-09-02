@@ -10,8 +10,7 @@
 * ---- TipoDeVeiculo
 * --
 * ---- Pagamento
-* ---- Tickets
-* ---- TipoDePagamento
+* ---- FormaDePagamento
 * --
 * ---- Estacionamento
 * ---- Vagas
